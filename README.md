@@ -2,6 +2,9 @@
 
 PixelLauncher es un launcher avanzado y personalizable para Minecraft, diseñado para ofrecer una experiencia optimizada y sin complicaciones. Este proyecto combina una interfaz moderna con un rendimiento ágil, perfecto tanto para jugadores casuales como para creadores de contenido.
 
+![4ea7a74e-299d-49b5-be91-a7e0a79d681d](https://github.com/user-attachments/assets/6795c2ae-74e3-4179-94ab-50c6725b893e)
+
+
 # 🚀 Características principales
 
 # 🎮 Gestión de versiones
